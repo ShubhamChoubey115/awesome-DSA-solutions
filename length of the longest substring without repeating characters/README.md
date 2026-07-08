@@ -1,7 +1,6 @@
 Given a string s, find the length of the longest substring without repeating characters.
 
 Examples:
-
 Input: s = "geeksforgeeks"
 Output: 7
 Explanation: Longest substring is "eksforg".
